@@ -1,4 +1,7 @@
 Ligne 1
 Ligne 2 modifiée en local
-Ligne 3 nouvelle
-ligne 4 ajoutée en local
+
+Ligne 2 modifiée
+Ligne 3 nouvelle et modifiée sous github
+ligne 4 nouvelle sur github
+
